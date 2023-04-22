@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/probot/metadata#readme",
   "devDependencies": {
-    "jest": "^23.6.0",
+    "jest": "^29.5.0",
     "nock": "^13.0.4",
     "probot": "^10.9.0",
     "semantic-release": "^17.1.2",
